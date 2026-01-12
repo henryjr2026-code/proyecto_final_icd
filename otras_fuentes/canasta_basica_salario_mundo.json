@@ -1,0 +1,25 @@
+{
+    "Cuba":{
+        "salario":4.77,
+        "canasta":36.75
+
+    },
+    "Brasil":{
+        "salario":273.86,
+        "canasta":124.84
+    },
+    "México":{
+        "salario":470.89,
+        "canasta":189.50
+    },
+    "Estados Unidos":{
+        "salario":1257,
+        "canasta":280
+    },
+    "Uruguay":{
+        "salario": 602.22,
+        "canasta":163.75
+    }
+    
+    
+}

@@ -1,0 +1,24 @@
+{
+  "id": 23,
+  "domicilio": false,
+  "transferencia": true,
+  "ubicación":[23.13469, -82.36353],
+  "producto": [
+    {"nombre": "aceite", "precio":950 },
+    {"nombre": "perritos", "precio": 450},
+    {"nombre": "arroz", "precio": 290},
+    {"nombre": "frijoles", "precio":380 },
+    {"nombre": "puré", "precio":360 },
+    {"nombre": "lata_refresco", "precio": 240},
+    {"nombre": "espagueti", "precio":330 },
+    {"nombre": "papas_prefritas", "precio":1400 },
+    {"nombre": "coditos","precio":330 },
+    {"nombre": "leche", "precio": 790},
+    {"nombre": "hígado_pollo", "precio":1200},
+    {"nombre": "cartón_huevo", "precio":3100}
+
+
+
+  ]
+
+ }
